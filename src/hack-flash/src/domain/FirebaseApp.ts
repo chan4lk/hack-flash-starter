@@ -15,12 +15,12 @@ import { Vehicle } from "./Vehicle";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "",
-  authDomain: "",
-  projectId: "",
-  storageBucket: "",
-  messagingSenderId: "",
-  appId: "",
+  apiKey: "AIzaSyCj7hliTwXtI-nLx2LdUWMcz-uz6qmr4aM",
+  authDomain: "hackrealapp.firebaseapp.com",
+  projectId: "hackrealapp",
+  storageBucket: "hackrealapp.appspot.com",
+  messagingSenderId: "974367933855",
+  appId: "1:974367933855:web:fa2b31c0f9aab79744e9aa"
 };
 
 // Initialize Firebase
